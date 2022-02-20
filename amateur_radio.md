@@ -29,7 +29,7 @@ Bay-net [https://www.bay-net.org/](https://www.bay-net.org/)
 ### Transceivers
 - [QDX](https://www.qrp-labs.com/qdx.html) - all USB controlled, HF only, **$65**
 	- USB CAT control, USB audio
-- [QRPGuys AFP-FSK](http://) - $80
+- [QRPGuys AFP-FSK](https://qrpguys.com/qrpguys-digital-fsk-transceiver-iii) - $80
 	- No USB interface, knobs for tuning and jacks for audio
 	- Different filter boards for different bands, comes with 20m, 30m, 40m, must build others
 - FT-991a - mother of all transceivers, HF 160m to 10m, 6m, 2m, 70cm. $1200
