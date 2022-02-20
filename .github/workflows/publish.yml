@@ -34,3 +34,4 @@ jobs:
       with:
         path: '.output'
         destination: 'wiki.nickpegg.com'
+        parent: false
