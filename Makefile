@@ -1,6 +1,10 @@
-.PHONY: all clean build push
+.PHONY: all init clean build push
 
 all: clean build push
+
+init:
+	python -m pip install --upgrade pip
+	pip install git+https://github.com/nickpegg/md_wiki_to_html
 
 clean:
 	rm -r .output || true
