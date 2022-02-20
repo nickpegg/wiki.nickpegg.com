@@ -1,0 +1,12 @@
+ul {
+  padding-left: 1em;
+}
+
+div.body {
+  display: grid;
+  grid-template-columns: min-content 10fr;
+  grid-column-gap: 2em;
+
+  max-width: 960px;
+  margin: 0 auto;
+}
