@@ -3,7 +3,7 @@
 all: clean build push
 
 init:
-	python3 -m pip install --upgrade pip
+	python3 -m ensurepip --upgrade
 	python3 -m pip install git+https://github.com/nickpegg/md_wiki_to_html
 
 clean:
