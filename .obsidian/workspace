@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "32820f0ea3b904df",
+    "type": "split",
+    "children": [
+      {
+        "id": "639d9287ba46a8e0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "amateur_radio.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08773142624b615f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e900a0b2177991fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f52fd7bcb9f338b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7c98d205a19f7f24",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "70bf21e5137f5031",
+    "type": "split",
+    "children": [
+      {
+        "id": "d10e4bf3f3198c37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad69a6a8a26aa347",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "amateur_radio.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "639d9287ba46a8e0",
+  "lastOpenFiles": [
+    "amateur_radio.md",
+    "test.md",
+    "meta.md",
+    "index.md",
+    "test/styles.md",
+    "[.md",
+    "static/img/bannekat.png.md",
+    "static/img/bannekat.png",
+    "some/nested/dir/index.md",
+    "Meta.md"
+  ]
+}
