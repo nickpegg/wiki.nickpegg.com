@@ -2,14 +2,13 @@
 This is a page for testing various styles to make sure they come out okay
 
 ## Heading 2
-1. numbered
-2. list
-3. whee
-
-
 - some
 - unordered
 - list
+
+1. numbered
+2. list
+3. whee
 
 
 - [ ] check
