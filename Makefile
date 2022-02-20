@@ -3,10 +3,10 @@
 all: clean build push
 
 clean:
-	rm -r _output || true
+	rm -r .output || true
 
 build:
-	md_wiki_to_html -v render --template _meta/template.html
+	md_wiki_to_html -v render --template .meta/template.html --output .output
 
 push:
-	gsutil -m rsync -d -r _output gs://wiki.nickpegg.com/
+	gsutil -m rsync -d -r .output gs://wiki.nickpegg.com/
