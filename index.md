@@ -4,4 +4,4 @@ This is the public section of my personal wiki. I keep notes here that I want to
 Interesting pages
 
 - [[amateur_radio]]
-- [[meta]] - information about how I manage this wiki
+- [[meta]] - how I manage this wiki

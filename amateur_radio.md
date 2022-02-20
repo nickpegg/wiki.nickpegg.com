@@ -32,7 +32,8 @@ Bay-net [https://www.bay-net.org/](https://www.bay-net.org/)
 - [QRPGuys AFP-FSK](http://) - $80
 	- No USB interface, knobs for tuning and jacks for audio
 	- Different filter boards for different bands, comes with 20m, 30m, 40m, must build others
-- FT-991a - mother of all transceivers, HF, 6m, 2m, 70cm. $1200
+- FT-991a - mother of all transceivers, HF 160m to 10m, 6m, 2m, 70cm. $1200
+	- built-in antenna tuner
 - IC-7300 - similar to FT-991a, more user-friendly, no 2m/70cm, $1200
 - My current VX-7R is **mostly receive-only**, since it can do AM and 6m but **can’t transmit modes like FT8 since it can’t do SSB**
 

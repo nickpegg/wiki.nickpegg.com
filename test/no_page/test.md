@@ -1,1 +1,0 @@
-This is a page where the parent dir has no page itself. Should show up as a parent with no link on the sidebar
