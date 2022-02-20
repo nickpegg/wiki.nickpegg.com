@@ -15,11 +15,12 @@ Bay-net [https://www.bay-net.org/](https://www.bay-net.org/)
 ## Equipment ideas
 ### Antennas
 - [EARCHI end-fed](http://www.earchi.org/proj_homebrew.html) - $56
-	- 6-40m
+	- 6-40m, 30 foot wire
 	- Requires antenna tuner
 - Les has a 68ft OCF dipole he’s willing to lend for science
 - [Comet CHA-250B](https://www.hamradio.com/detail.cfm?pid=H0-007756) - $380
 	- Vertical multiband 6 - 80m, “plug and play”
+	- Comes with hardware to mount to a pole, could fashion a roof stand out of metal or PVC
 - [Buddipole](https://www.buddipole.com/buddipole.html) - adjustable to a whole lot of bands, 2m down to 40m, up to 250W
 	- [Overview](https://ve3ips.files.wordpress.com/2017/06/a_brief_guide_to_the_buddipole_system_revn.pdf) of the system
 	- reviews are poor, say it’s finnicky and narrow bandwidth
