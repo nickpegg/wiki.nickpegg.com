@@ -15,7 +15,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install https://github.com/nickpegg/md_wiki_to_html
+        pip install git+https://github.com/nickpegg/md_wiki_to_html
     - name: Build
       run: |
         make build
