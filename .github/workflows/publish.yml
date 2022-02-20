@@ -35,3 +35,5 @@ jobs:
         path: '.output'
         destination: 'wiki.nickpegg.com'
         parent: false
+        headers: |-
+          Cache-Control: max-age=15
