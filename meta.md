@@ -7,4 +7,5 @@ I use [Obisidian](https://obsidian.md/) to edit this wiki. Instead of paying the
 - [ ] Open-source the publish tool
 - [x] HTML template with CSS for wiki
 - [x] Hosting on my server or a GCS bucket
+- [ ] fix wonky styling on [[test/styles]]
 - [ ] GitHub Action to publish to the bucket
