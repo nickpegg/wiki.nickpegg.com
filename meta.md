@@ -16,3 +16,4 @@ md_wiki_to_html has a concept of ["flavors" of Markdown wikis that it supports](
 - [x] Hosting on my server or a GCS bucket
 - [x] fix wonky styling on [[test/styles]]
 - [x] GitHub Action to publish to the bucket
+- [ ] Make links look nicer on web
