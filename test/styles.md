@@ -1,6 +1,8 @@
 # Heading 1
 This is a page for testing various styles to make sure they come out okay
 
+Here is a sentence `with some inline code`.
+
 ## Heading 2
 - some
 - unordered
