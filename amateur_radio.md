@@ -4,6 +4,18 @@
 SFARC [https://www.sfarc.org/](https://www.sfarc.org/)
 Bay-net [https://www.bay-net.org/](https://www.bay-net.org/)
 
+## Stores
+### Online
+- [DX Engineering](https://www.dxengineering.com/)
+- [Gigaparts](https://www.gigaparts.com/)
+- [Ham Radio Outlet](https://www.hamradio.com/)
+	- Has physical stores, the (now closed) one in Oakland had some pretty bad reviews due to assholes working there. Maybe avoid unless they have a really really good deal.
+- [Universal Radio](https://www.universal-radio.com/)
+	- Old-school site, seems to be entirely sold out. Has a bunch of historical info
+
+### SF Bay Area
+
+
 ## Digital Modes
 
 - [WSPR](http://www.wsprnet.org/drupal/) - propagation reporting beacons
