@@ -2,7 +2,7 @@ a {
   color: blue;
 }
 
-ul {
+ul, ol {
   padding-left: 1em;
 }
 
