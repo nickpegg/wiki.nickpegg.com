@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "566166bfb5e72071",
+        "id": "9e7a9ad937bccf6c",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "566166bfb5e72071",
+  "active": "9e7a9ad937bccf6c",
   "lastOpenFiles": [
     "amateur_radio.md",
+    "meta.md",
+    "Untitled.md",
     "index.md",
     "test.md",
-    "meta.md",
     "test/styles.md",
     "img/trrs-diagram.jpg",
     "test/no_page/test.md",
     "[.md",
-    "static/img/bannekat.png.md",
-    "static/img/bannekat.png"
+    "static/img/bannekat.png.md"
   ]
 }

@@ -5,6 +5,11 @@ SFARC [https://www.sfarc.org/](https://www.sfarc.org/)
 Bay-net [https://www.bay-net.org/](https://www.bay-net.org/)
 [Silicon Valley VE Group](http://www.svve.org/) - doing online testing during the pandemic
 
+## Nets
+- Monday 20:00 - SF ARC FM - 145.150 MHz -600kHz, DCS 664
+- Thrusday 20:00 - SF ARC QRS CW - 144.07 MHz
+
+
 ## Stores
 ### Online
 - [DX Engineering](https://www.dxengineering.com/)
