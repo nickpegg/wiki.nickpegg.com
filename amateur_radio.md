@@ -1,4 +1,5 @@
-# Amateur Radio Notes
+My amateur radio notes
+
 ## Local Groups
 
 SFARC [https://www.sfarc.org/](https://www.sfarc.org/)

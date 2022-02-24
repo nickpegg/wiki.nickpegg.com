@@ -1,5 +1,3 @@
-# Meta
-
 I use [Obisidian](https://obsidian.md/) to edit this wiki. Because I'm a colossal cheapass, instead of using their publishing tools I publish using my own tool called [md_wiki_to_html](https://github.com/nickpegg/md_wiki_to_html)
 
 md_wiki_to_html has a concept of ["flavors" of Markdown wikis that it supports](https://github.com/nickpegg/md_wiki_to_html/blob/93d3f04126474b1d2ba451507e3239f2107d5748/md_wiki_to_html/config.py#L30-L45). Has support for Obsidian right now but could support stuff like vimwiki in the future.
