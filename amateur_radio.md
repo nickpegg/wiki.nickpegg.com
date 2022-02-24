@@ -1,18 +1,18 @@
 My amateur radio notes
 
-## Local Groups
+# Local Groups
 
 SFARC [https://www.sfarc.org/](https://www.sfarc.org/)
 Bay-net [https://www.bay-net.org/](https://www.bay-net.org/)
 [Silicon Valley VE Group](http://www.svve.org/) - doing online testing during the pandemic
 
-## Nets
+# Nets
 - Monday 20:00 - SF ARC FM - 145.150 MHz -600kHz, DCS 664
 - Thrusday 20:00 - SF ARC QRS CW - 144.07 MHz
 
 
-## Stores
-### Online
+# Stores
+## Online
 - [DX Engineering](https://www.dxengineering.com/)
 - [Gigaparts](https://www.gigaparts.com/)
 - [Ham Radio Outlet](https://www.hamradio.com/)
@@ -20,10 +20,10 @@ Bay-net [https://www.bay-net.org/](https://www.bay-net.org/)
 - [Universal Radio](https://www.universal-radio.com/)
 	- Old-school site, seems to be entirely sold out. Has a bunch of historical info
 
-### SF Bay Area
+## SF Bay Area
 
 
-## Digital Modes
+# Digital Modes
 
 - [WSPR](http://www.wsprnet.org/drupal/) - propagation reporting beacons
 - [FT8](https://www.sigidwiki.com/wiki/FT8) - mostly automated contact-making and signal checking
@@ -31,8 +31,8 @@ Bay-net [https://www.bay-net.org/](https://www.bay-net.org/)
 - AX.25 packet radio - BBSes and stuff!
 
 
-## Equipment ideas
-### Antennas
+# Equipment ideas
+## Base Antennas
 - [EARCHI end-fed](http://www.earchi.org/proj_homebrew.html) - $56
 	- 6-40m, 30 foot wire
 	- Requires antenna tuner
@@ -45,7 +45,10 @@ Bay-net [https://www.bay-net.org/](https://www.bay-net.org/)
 	- reviews are poor, say it’s finnicky and narrow bandwidth
 - mag loop anteanna - expensive!
 
-### Transceivers
+## HT Antennas
+* [SignalStick](https://signalstuff.com/product/super-elastic-signal-stick-bnc/) - 2m/70cm, bendy, cheap at $22
+
+## Base Transceivers
 - [QDX](https://www.qrp-labs.com/qdx.html) - all USB controlled, HF only, **$65**
 	- USB CAT control, USB audio
 - [QRPGuys AFP-FSK](https://qrpguys.com/qrpguys-digital-fsk-transceiver-iii) - $80
@@ -57,5 +60,6 @@ Bay-net [https://www.bay-net.org/](https://www.bay-net.org/)
 - My current VX-7R is **mostly receive-only**, since it can do AM and 6m but **can’t transmit modes like FT8 since it can’t do SSB**
 
 
+# Misc
 TRRS plug diagram:
 ![](/img/trrs-diagram.jpg)
