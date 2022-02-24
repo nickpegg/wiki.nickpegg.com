@@ -19,7 +19,7 @@
       </div>
 
       <div class="content">
-        <h1 class="page-title">{{title}}</h1>
+        <h1 class="page-title">{{ title | replace("_", " ") | title }}</h1>
         {{ content }}
       </div>
     </div>
