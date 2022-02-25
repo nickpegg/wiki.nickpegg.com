@@ -20,7 +20,7 @@ Bay-net [https://www.bay-net.org/](https://www.bay-net.org/)
 - Thursday 20:00 - Bay-Net Digital Voice
 	- **C4FM 444.425 MHz** color code 1m, +5MHz offset
 	- DMR 444.350 MHz
-	- Repeaters are in South Bay, may not be able to reach
+	- Repeaters are in Palo Alto, may not be able to reach
 - Thursday 20:00 - SF ARC QRS CW - 144.07 MHz
 
 
