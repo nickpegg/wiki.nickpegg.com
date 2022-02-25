@@ -1,9 +1,11 @@
+I recently got my General license, so I'm planning on buying a base transceiver that can do HF, and an antenna for it. Here are some options I've found.
+
 # Base Antennas
 - [EARCHI end-fed](http://www.earchi.org/proj_homebrew.html) - $56
 	- 6-40m, 30 foot wire
 	- Requires antenna tuner
 	- Doesn't come with a coax cable
-- Les has a 68ft OCF dipole he’s willing to lend for science
+- KF4LES has a 68ft OCF dipole he’s willing to lend for science
 - [Comet CHA-250B](https://www.hamradio.com/detail.cfm?pid=H0-007756) - $380
 	- Vertical multiband 6 - 80m, “plug and play”
 	- Comes with hardware to mount to a pole, could fashion a roof stand out of metal or PVC
