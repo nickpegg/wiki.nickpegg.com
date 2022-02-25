@@ -1,4 +1,4 @@
-## Base Antennas
+# Base Antennas
 - [EARCHI end-fed](http://www.earchi.org/proj_homebrew.html) - $56
 	- 6-40m, 30 foot wire
 	- Requires antenna tuner
@@ -12,10 +12,10 @@
 	- reviews are poor, say it’s finnicky and narrow bandwidth
 - mag loop anteanna - expensive!
 
-## HT Antennas
+# HT Antennas
 * [SignalStick](https://signalstuff.com/product/super-elastic-signal-stick-bnc/) - 2m/70cm, bendy, cheap at $22
 
-## Base Transceivers
+# Base Transceivers
 - [QDX](https://www.qrp-labs.com/qdx.html) - all USB controlled, HF only, **$65**
 	- USB CAT control, USB audio
 - [QRPGuys AFP-FSK](https://qrpguys.com/qrpguys-digital-fsk-transceiver-iii) - $80
