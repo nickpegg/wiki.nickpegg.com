@@ -18,3 +18,4 @@ md_wiki_to_html has a concept of ["flavors" of Markdown wikis that it supports](
 - [x] Make links look nicer on web
 - [ ] Style wikilinks differently?
 - [x] Add page header which is the title of the page (replace `_` with spaces)
+- [ ] Titles include full path?
