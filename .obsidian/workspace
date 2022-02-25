@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "amateur_radio/equipment_ideas.md",
+            "file": "amateur_radio.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "amateur_radio/equipment_ideas.md",
+                "file": "amateur_radio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,10 @@
   },
   "active": "9e7a9ad937bccf6c",
   "lastOpenFiles": [
-    "amateur_radio/equipment_ideas.md",
-    "meta.md",
-    "test.md",
     "amateur_radio.md",
+    "meta.md",
+    "amateur_radio/equipment_ideas.md",
+    "test.md",
     "amateur_radio/my_shack.md",
     "index.md",
     "test/styles.md",

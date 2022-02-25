@@ -1,5 +1,12 @@
 My amateur radio notes
 
+# TODO
+- [x] Upgrade to General
+- [x] Get silly vanity callsign
+- [ ] Buy HF equipment
+- [ ] Try out digital modes on HF (WSPR, FT8)
+- [ ] Try out non-FM modes on 2m/6m
+
 # Local Groups
 
 SFARC [https://www.sfarc.org/](https://www.sfarc.org/)
