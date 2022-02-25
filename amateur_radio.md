@@ -13,9 +13,15 @@ SFARC [https://www.sfarc.org/](https://www.sfarc.org/)
 Bay-net [https://www.bay-net.org/](https://www.bay-net.org/)
 [Silicon Valley VE Group](http://www.svve.org/) - doing online testing during the pandemic
 
-# Nets
+# Weekly Nets
 - Monday 20:00 - SF ARC FM - 145.150 MHz -600kHz, DCS 664
-- Thrusday 20:00 - SF ARC QRS CW - 144.07 MHz
+- Wednesday 19:30 - Bay Net 6m FM - 52.525 MHz
+- Wednesday 20:30 - BayNet 2m SSB - 144.230 USB vertical polarization
+- Thursday 20:00 - Bay-Net Digital Voice
+	- **C4FM 444.425 MHz** color code 1m, +5MHz offset
+	- DMR 444.350 MHz
+	- Repeaters are in South Bay, may not be able to reach
+- Thursday 20:00 - SF ARC QRS CW - 144.07 MHz
 
 
 # Stores
