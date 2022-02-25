@@ -3,7 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ title | replace("_", " ") | title }} - wiki.nickpegg.com</title>
+    <title>
+      {% for page_dir in page_dirs %}
+      {{ page_dir | replace("_", " ") | title }}/
+      {%- endfor -%}
+      {{ title | replace("_", " ") | title }}
+      - wiki.nickpegg.com
+    </title>
 
     <link rel="stylesheet" type="text/css" href="/static/index.css">
 
@@ -19,7 +25,13 @@
       </div>
 
       <div class="content">
-        <h1 class="page-title">{{ title | replace("_", " ") | title }}</h1>
+        <h1 class="page-title">
+          {% for page_dir in page_dirs %}
+          {{ page_dir | replace("_", " ") | title }}/
+          {%- endfor -%}
+          {{ title | replace("_", " ") | title }}
+        </h1>
+        <hr />
         {{ content }}
       </div>
     </div>
