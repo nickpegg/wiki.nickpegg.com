@@ -1,5 +1,3 @@
-# Biscuit Gravy
-
 ## Ingredients
 | Qty             | Thing |
 | --------------- | ----- |

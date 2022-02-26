@@ -1,4 +1,3 @@
-# French Toast
 
 ## Ingredients (per person)
 | Qty               | Thing |

@@ -1,4 +1,3 @@
-# ChefSteps Pancakes
 Source: http://www.chefsteps.com/activities/light-fluffy-pancakes
 
 ## Ingredients
