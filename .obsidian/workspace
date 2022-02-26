@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9e7a9ad937bccf6c",
+        "id": "bb1cf92bc4a0b931",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "amateur_radio.md",
+            "file": "recipes/pancakes.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "amateur_radio.md",
+                "file": "recipes/pancakes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9e7a9ad937bccf6c",
+  "active": "bb1cf92bc4a0b931",
   "lastOpenFiles": [
+    "recipes/pancakes.md",
+    "recipes/kimchi.md",
+    "recipes/french_toast.md",
+    "recipes/biscuit_gravy.md",
+    "img/gravy_spoon.jpg?raw=true.md",
+    "biscuit_gr.md",
+    "recipes/gravy_spoon.jpg",
     "amateur_radio.md",
     "meta.md",
-    "amateur_radio/equipment_ideas.md",
-    "test.md",
-    "amateur_radio/my_shack.md",
-    "index.md",
-    "test/styles.md",
-    "img/trrs-diagram.jpg",
-    "test/no_page/test.md",
-    "[.md"
+    "amateur_radio/equipment_ideas.md"
   ]
 }
