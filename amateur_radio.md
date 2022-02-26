@@ -3,6 +3,10 @@ My amateur radio notes
 # TODO
 - [x] Upgrade to General
 - [x] Get silly vanity callsign
+- [x] Create QRZ logbook
+- [ ] LOTW
+	- [ ] Request callsign cert
+	- [ ] Get postcard, finish setup
 - [ ] Buy HF equipment
 - [ ] Try out digital modes on HF (WSPR, FT8)
 - [ ] Try out non-FM modes on 2m/6m
