@@ -26,4 +26,4 @@
 
 ## Pictures
 ### Viscous Gravy
-![](gravy_spoon.jpg)
+![](img/gravy_spoon.jpg)

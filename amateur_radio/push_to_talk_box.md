@@ -9,5 +9,5 @@ How it works:
 3. Relay "Btn Ctrl" connects in series with momemtary SW2, enabling its use for connecting PTT to Ground
 
 # Schematic
-![](ptt_box_schematic.jpg)
+![](img/ptt_box_schematic.jpg)
 
