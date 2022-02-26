@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "meta.md",
+            "file": "amateur_radio/push_to_talk_box.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meta.md",
+                "file": "amateur_radio/push_to_talk_box.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "bb1cf92bc4a0b931",
   "lastOpenFiles": [
+    "amateur_radio/push_to_talk_box.md",
     "meta.md",
     "recipes/simple_keema_curry.md",
     "recipes/spicy_maze_udon.md",
@@ -97,7 +98,6 @@
     "Untitled.md",
     "recipes/gochjang.md",
     "recipes/cinnamon_sugar.md",
-    "recipes/pancakes.md",
-    "recipes/biscuit_gravy.md"
+    "recipes/pancakes.md"
   ]
 }

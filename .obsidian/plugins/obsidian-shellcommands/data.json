@@ -11,7 +11,7 @@
   "shell_commands": {
     "0": {
       "platform_specific_commands": {
-        "default": "git add .obsidian **/*.md && git commit -m 'auto-update' && git push"
+        "default": "git add .obsidian **/*.md **/*.jp*g && git commit -m 'auto-update' && git push"
       },
       "shells": {},
       "alias": "Publish via git",
