@@ -15,6 +15,10 @@ div.body {
   margin: 0 auto;
 }
 
+img {
+  max-width: 960px;
+}
+
 code {
   background: #f1f1f1;
   border: 1px solid #e1e1e1;
