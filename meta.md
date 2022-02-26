@@ -21,4 +21,4 @@ md_wiki_to_html has a concept of ["flavors" of Markdown wikis that it supports](
 - [x] Titles include full path?
 - [ ] CSS for tables
 - [ ] Mobile-friendly CSS
-- [ ] Move recipes from git and Dropbox Paper to here
+- [x] Move recipes from git and Dropbox Paper to here
