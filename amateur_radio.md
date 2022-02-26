@@ -5,7 +5,7 @@ My amateur radio notes
 - [x] Get silly vanity callsign
 - [x] Create QRZ logbook
 - [ ] LOTW
-	- [ ] Request callsign cert
+	- [x] Request callsign cert
 	- [ ] Get postcard, finish setup
 - [ ] Buy HF equipment
 - [ ] Try out digital modes on HF (WSPR, FT8)
