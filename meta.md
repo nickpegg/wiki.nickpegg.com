@@ -22,3 +22,4 @@ md_wiki_to_html has a concept of ["flavors" of Markdown wikis that it supports](
 - [ ] CSS for tables
 - [ ] Mobile-friendly CSS
 - [x] Move recipes from git and Dropbox Paper to here
+- [ ] Android sync
