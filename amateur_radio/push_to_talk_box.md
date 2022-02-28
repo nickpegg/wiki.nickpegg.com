@@ -18,7 +18,7 @@ SW1 works with both 5 and 12V, light turns on when switch is on
 
 ![](/img/ptt_box_schematic.jpg)
 
-RTTY/DATA port pinout:
+RTTY/DATA port pinout, takes a 6-pin mini-DIN plug
 ![](/img/ft991a_rtty_data_pinout.png)
 
 # TODO
