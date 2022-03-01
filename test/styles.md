@@ -8,6 +8,13 @@ Here is a sentence `with some inline code`.
 - unordered
 - list
 
+blah
+
+* This is a list
+* which has
+	* some nesting
+* blargh
+
 1. numbered
 2. list
 3. whee
@@ -15,6 +22,8 @@ Here is a sentence `with some inline code`.
 
 - [ ] check
 - [ ] boxes
+	- [ ] This should be nested
+- [ ] back to top-lev
 
 
 ### Heading 3
