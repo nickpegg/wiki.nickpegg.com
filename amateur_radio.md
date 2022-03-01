@@ -19,10 +19,11 @@ My amateur radio notes
 - [Silicon Valley VE Group](http://www.svve.org/) - doing online testing during the pandemic
 
 # Local Repeaters
-- SFARC - W6PW - 145.150- DCS664
-- CARC - WA6TOW - 146.925- PL114.8, 441.075+ PL114.8
+- SFARC - W6PW - 145.150- DCS664 - Sutro Tower
+- CARC - WA6TOW - 146.925- PL114.8, 441.075+ PL114.8 - Montara Mtn
 - CARLA SF - N6MVT - 442.075+ PL100.0 local, PL162.2 link
 - CARLA Pacifica - WB6JKV - 440.725+ PL114.8 local, PL167.9 link
+- NorCal DX Club - W6TI - 147.36+ PL110.9 - Palo Alto
 
 # Weekly Nets
 - Monday 20:00 - SF ARC FM - 145.150- MHz DCS 664
