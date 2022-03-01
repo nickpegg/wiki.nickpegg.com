@@ -23,7 +23,7 @@ blah
 - [ ] check
 - [ ] boxes
 	- [ ] This should be nested
-- [ ] back to top-lev
+- [ ] back to top-level
 
 
 ### Heading 3
