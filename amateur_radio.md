@@ -12,7 +12,7 @@ My amateur radio notes
 - [ ] Try out non-FM modes on 2m/6m
 
 # Local Groups
-- [SFARC]](https://www.sfarc.org/)
+- [SFARC](https://www.sfarc.org/)
 - [Coastside ARC](https://www.coastsidearc.org) - Pacifica/Linda Mar
 - [Bay-net](https://www.bay-net.org/)
 - [CARLA](http://www.carlaradio.net/) - California Amateur Radio Linking Assoc.
