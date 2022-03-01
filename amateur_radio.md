@@ -53,10 +53,12 @@ My amateur radio notes
 
 # Digital Modes
 Stuff to try out
+
 - [WSPR](http://www.wsprnet.org/drupal/) - propagation reporting beacons
 - [FT8](https://www.sigidwiki.com/wiki/FT8) - mostly automated contact-making and signal checking
 - [PSK31](https://www.qsl.net/sv1grb/psk31.htm) - digital rag-chew
 - AX.25 packet radio - BBSes and stuff!
+	- [There's a BBS in SF](https://www.reddit.com/r/amateurradio/comments/cuxso3/packet_radio_bbs_in_san_francisco_still_operating/)
 
 
 
