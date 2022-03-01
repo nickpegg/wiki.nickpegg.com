@@ -38,6 +38,7 @@ My amateur radio notes
 	- DMR 444.350 MHz
 	- Repeaters are in Palo Alto, may not be able to reach
 - Thursday 20:00 - SF ARC QRS CW - 144.07 MHz
+- Saturday 09:00 - SF ARC HF - 14.328Mhz
 
 
 # Stores
