@@ -12,15 +12,26 @@ My amateur radio notes
 - [ ] Try out non-FM modes on 2m/6m
 
 # Local Groups
+- [SFARC]](https://www.sfarc.org/)
+- [Coastside ARC](https://www.coastsidearc.org) - Pacifica/Linda Mar
+- [Bay-net](https://www.bay-net.org/)
+- [CARLA](http://www.carlaradio.net/) - California Amateur Radio Linking Assoc.
+- [Silicon Valley VE Group](http://www.svve.org/) - doing online testing during the pandemic
 
-SFARC [https://www.sfarc.org/](https://www.sfarc.org/)
-Bay-net [https://www.bay-net.org/](https://www.bay-net.org/)
-[Silicon Valley VE Group](http://www.svve.org/) - doing online testing during the pandemic
+# Local Repeaters
+- SFARC - W6PW - 145.150- DCS664
+- CARC - WA6TOW - 146.925- PL114.8, 441.075+ PL114.8
+- CARLA SF - N6MVT - 442.075+ PL100.0 local, PL162.2 link
+- CARLA Pacifica - WB6JKV - 440.725+ PL114.8 local, PL167.9 link
 
 # Weekly Nets
-- Monday 20:00 - SF ARC FM - 145.150 MHz -600kHz, DCS 664
+- Monday 20:00 - SF ARC FM - 145.150- MHz DCS 664
+- Tuesday 19:00 - Sam Mateo Radio Club - 145.370+ PL107.2
+- Tuesday 19:30 - CARC Daly City Net - WA6TOW 146.925+ PL114.8
 - Wednesday 19:30 - Bay Net 6m FM - 52.525 MHz
+- Wednesday 20:00 - CARC checkin - WA6TOW 146.925 PL114.8
 - Wednesday 20:30 - BayNet 2m SSB - 144.230 USB vertical polarization
+- Thursday 19:00 - Sam Mateo Radio Club - 145.370+ PL107.2
 - Thursday 20:00 - Bay-Net Digital Voice
 	- **C4FM 444.425 MHz** color code 1, +5MHz offset
 	- DMR 444.350 MHz

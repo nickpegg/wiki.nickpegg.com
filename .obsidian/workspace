@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "test/styles.md",
+            "file": "amateur_radio.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test/styles.md",
+                "file": "amateur_radio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "bb1cf92bc4a0b931",
   "lastOpenFiles": [
-    "test/styles.md",
     "amateur_radio.md",
+    "test/styles.md",
     "index.md",
     "amateur_radio/push_to_talk_box.md",
     "img/ptt_box_schematic.jpg",
