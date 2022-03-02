@@ -38,7 +38,7 @@ My amateur radio notes
 	- DMR 444.350 MHz
 	- Repeaters are in Palo Alto, may not be able to reach
 - Thursday 20:00 - SF ARC QRS CW - 144.07 MHz
-- Saturday 09:00 - SF ARC HF - 14.328Mhz
+- Saturday 09:00 - SF ARC HF net - 14.328Mhz
 
 
 # Stores
@@ -64,6 +64,8 @@ Stuff to try out
 
 
 
-# Misc
+# Reference
+[DX Engineering's coax type chart](https://static.dxengineering.com/pdf/dxe_coax_compare-chart91120-rev7.pdf)
+
 TRRS plug diagram:
 ![](/img/trrs-diagram.jpg)
