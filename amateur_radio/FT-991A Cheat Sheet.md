@@ -1,0 +1,31 @@
+Quick settings are stored by band and mode, so double-check them before transmitting:
+* Power
+* Mic gain
+
+# Meter types
+When transmitting the S-Meter can show different things
+
+- PO - transmit power
+- SWR - SWR of antenna and feed line
+- ALC - ALC voltage
+	- when doing digital, adjust gain as high as possible while keeping this to 0
+- COMP - speach compressor level
+- ID - drain current of final stage FETs
+- VDD - drain voltage of final stage amplifier - should be 13.8V
+
+# Memory
+Quick Memory Bank (5 memories):
+* Long-press RCL/STO to store
+* Short-press RCL/STO to flip between stored channels
+
+## Storing
+1. Set things how you want for this channel (mode, freq, settings, etc.)
+2. Press A->M
+3. Rotate Multi knob to select channel to write to
+4. Long-press A->M to store
+
+## Recall
+1. Press V/M utton
+2. Press F(M-LIST)
+3. Press MCH virtual button
+4. Rotate Mutil knob to select channel
