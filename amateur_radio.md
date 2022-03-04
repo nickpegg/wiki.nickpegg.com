@@ -1,5 +1,13 @@
 My amateur radio notes
 
+# My Setup
+Base:
+* Base transceiver is a Yaesu FT-991a
+- Diamond MR77 mobile antenna for 2m/70cm, stuck to one of my filing cabinets
+- EARCHI end-fed antenna for HF/6m, currently mounted to the picture rails in my home office
+
+When remote, I have a Yaesu VX-7R with a Signal Stick antenna
+
 # TODO
 - [x] Upgrade to General
 - [x] Get silly vanity callsign
@@ -7,7 +15,7 @@ My amateur radio notes
 - [ ] LOTW
 	- [x] Request callsign cert
 	- [ ] Get postcard, finish setup
-- [ ] Buy HF equipment
+- [x] Buy HF equipment
 - [ ] Try out digital modes on HF (WSPR, FT8)
 - [ ] Try out non-FM modes on 2m/6m
 
@@ -27,12 +35,12 @@ My amateur radio notes
 
 # Weekly Nets
 - Monday 20:00 - SF ARC FM - 145.150- MHz DCS 664
-- Tuesday 19:00 - Sam Mateo Radio Club - 145.370+ PL107.2
+- Tuesday 19:00 - San Mateo Radio Club - 145.370+ PL107.2
 - Tuesday 19:30 - CARC Daly City Net - WA6TOW 146.925+ PL114.8
 - Wednesday 19:30 - Bay Net 6m FM - 52.525 MHz
 - Wednesday 20:00 - CARC checkin - WA6TOW 146.925 PL114.8
 - Wednesday 20:30 - BayNet 2m SSB - 144.230 USB vertical polarization
-- Thursday 19:00 - Sam Mateo Radio Club - 145.370+ PL107.2
+- Thursday 19:00 - San Mateo Radio Club - 145.370+ PL107.2
 - Thursday 20:00 - Bay-Net Digital Voice
 	- **C4FM 444.425 MHz** color code 1, +5MHz offset
 	- DMR 444.350 MHz
