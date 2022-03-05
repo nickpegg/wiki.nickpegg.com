@@ -19,7 +19,7 @@ md_wiki_to_html has a concept of ["flavors" of Markdown wikis that it supports](
 - [ ] Style external links differently
 - [x] Add page header which is the title of the page (replace `_` with spaces)
 - [x] Titles include full path?
-- [ ] CSS for tables
+- [x] CSS for tables
 - [ ] Mobile-friendly CSS
 - [x] Move recipes from git and Dropbox Paper to here
 - [ ] Android sync

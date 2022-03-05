@@ -1,6 +1,7 @@
 # Homemade Kimchi
 
 This recipe was adapted from:
+
 * [Brad Leone's Cabbage Kimchi](https://www.youtube.com/watch?v=sUwy71ddj1M)
 * [Maangchi's Easy Kimchi](https://www.maangchi.com/recipe/easy-kimchi)
 
@@ -9,6 +10,7 @@ Don't make this if you're about to go on vacation or something.
 
 # Ingredients
 To start off with, you're going to need:
+
 * 1 32oz mason jar
 * 2 large mixing bowls
 * 1/2 head of napa cabbage
@@ -84,6 +86,7 @@ but if you're vigilant about burping it, you shouldn't have any troubles.
 
 How long you ferment depends on how you like your kimchi. A few things happen
 over time:
+
 * The cabbage softens
 * The fish sauce mellows out
 * It gets funkier (thanks to acids produced by the bacteria)
@@ -99,6 +102,7 @@ It'll slowly keep fermenting in your fridge, so if you don't like funky kimchi
 you should eat it up within a week or two.
 
 Some tasty things to make with kimchi:
+
 * Kimchi fried rice
 * Kimchi jigae (Korean stew)
 * Kimchi scrambled eggs
