@@ -1,4 +1,5 @@
 Quick settings are stored by band and mode, so double-check them before transmitting:
+
 * Power
 * Mic gain
 
