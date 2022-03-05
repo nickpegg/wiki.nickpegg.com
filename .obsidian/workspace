@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "recipes/simple_keema_curry.md",
+            "file": "amateur_radio.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recipes/simple_keema_curry.md",
+                "file": "amateur_radio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "8e1a37577915561c",
   "lastOpenFiles": [
+    "amateur_radio.md",
+    "recipes/spicy_maze_udon.md",
     "recipes/simple_keema_curry.md",
     "recipes/biscuit_gravy.md",
     "recipes/kimchi.md",
     "meta.md",
     "index.md",
-    "amateur_radio.md",
     "amateur_radio/FT-991A Cheat Sheet.md",
     "amateur_radio/equipment_ideas.md",
-    "2022-02-28 SFARC Net check in.md",
-    "test/styles.md"
+    "2022-02-28 SFARC Net check in.md"
   ]
 }

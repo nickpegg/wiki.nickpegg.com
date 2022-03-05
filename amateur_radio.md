@@ -13,7 +13,8 @@ When remote, I have a Yaesu VX-7R with a Signal Stick antenna
 - [x] Create QRZ logbook
 - [ ] LOTW
 	- [x] Request callsign cert
-	- [ ] Get postcard, finish setup
+	- [x] Get postcard
+	- [ ] Receive cert
 - [x] Buy HF equipment
 - [ ] Try out digital modes on HF (WSPR, FT8)
 - [ ] Try out non-FM modes on 2m/6m
