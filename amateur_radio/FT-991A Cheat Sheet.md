@@ -10,7 +10,7 @@ When transmitting the S-Meter can show different things
 - SWR - SWR of antenna and feed line
 - ALC - ALC voltage
 	- when doing digital, adjust gain as high as possible while keeping this to 0
-- COMP - speach compressor level
+- COMP - speech compressor level
 - ID - drain current of final stage FETs
 - VDD - drain voltage of final stage amplifier - should be 13.8V
 
