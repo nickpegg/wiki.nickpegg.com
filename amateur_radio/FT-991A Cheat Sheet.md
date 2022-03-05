@@ -26,7 +26,7 @@ Quick Memory Bank (5 memories):
 4. Long-press A->M to store
 
 ## Recall
-1. Press V/M utton
+1. Press V/M button
 2. Press F(M-LIST)
 3. Press MCH virtual button
-4. Rotate Mutil knob to select channel
+4. Rotate Multi knob to select channel
