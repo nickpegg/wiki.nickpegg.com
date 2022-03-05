@@ -1,8 +1,6 @@
 My amateur radio notes
 
 # My Setup
-Base:
-
 * Base transceiver is a Yaesu FT-991a
 - Diamond MR77 mobile antenna for 2m/70cm, stuck to one of my filing cabinets
 - EARCHI end-fed antenna for HF/6m, currently mounted to the picture rails in my home office
