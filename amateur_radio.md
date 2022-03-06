@@ -66,6 +66,7 @@ Stuff to try out
 
 - [WSPR](http://www.wsprnet.org/drupal/) - propagation reporting beacons
 - [FT8](https://www.sigidwiki.com/wiki/FT8) - mostly automated contact-making and signal checking
+- [JS8](https://js8call.com/) - Based on FT8, but for freeform messages. JS8Call is a fork of WSJT-X for this mode
 - [PSK31](https://www.qsl.net/sv1grb/psk31.htm) - digital rag-chew
 - AX.25 packet radio - BBSes and stuff!
 	- [There's a BBS in SF](https://www.reddit.com/r/amateurradio/comments/cuxso3/packet_radio_bbs_in_san_francisco_still_operating/)
