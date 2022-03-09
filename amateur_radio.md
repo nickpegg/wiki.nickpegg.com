@@ -36,7 +36,7 @@ When remote, I have a Yaesu VX-7R with a Signal Stick antenna
 # Weekly Nets
 - Monday 20:00 - SF ARC FM - 145.150- MHz DCS 664
 - Tuesday 19:00 - San Mateo Radio Club - 145.370- PL107.2
-- Tuesday 19:30 - CARC Daly City Net - WA6TOW 146.925+ PL114.8
+- Tuesday 19:30 - CARC Daly City Net - WA6TOW 146.925- PL114.8
 - Wednesday 19:30 - Bay Net 6m FM - 52.525 MHz
 - Wednesday 20:00 - CARC checkin - WA6TOW 146.925 PL114.8
 - Wednesday 20:30 - BayNet 2m SSB - 144.230 USB vertical polarization
