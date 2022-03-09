@@ -11,10 +11,10 @@ When remote, I have a Yaesu VX-7R with a Signal Stick antenna
 - [x] Upgrade to General
 - [x] Get silly vanity callsign
 - [x] Create QRZ logbook
-- [ ] LOTW
+- [x] LOTW
 	- [x] Request callsign cert
 	- [x] Get postcard
-	- [ ] Receive cert
+	- [x] Receive cert
 - [x] Buy HF equipment
 - [ ] Try out digital modes on HF (WSPR, FT8)
 - [ ] Try out non-FM modes on 2m/6m
@@ -35,7 +35,7 @@ When remote, I have a Yaesu VX-7R with a Signal Stick antenna
 
 # Weekly Nets
 - Monday 20:00 - SF ARC FM - 145.150- MHz DCS 664
-- Tuesday 19:00 - San Mateo Radio Club - 145.370+ PL107.2
+- Tuesday 19:00 - San Mateo Radio Club - 145.370- PL107.2
 - Tuesday 19:30 - CARC Daly City Net - WA6TOW 146.925+ PL114.8
 - Wednesday 19:30 - Bay Net 6m FM - 52.525 MHz
 - Wednesday 20:00 - CARC checkin - WA6TOW 146.925 PL114.8
