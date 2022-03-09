@@ -33,12 +33,17 @@ When remote, I have a Yaesu VX-7R with a Signal Stick antenna
 - CARLA Pacifica - WB6JKV - 440.725+ PL114.8 local, PL167.9 link
 - NorCal DX Club - W6TI - 147.36+ PL110.9 - Palo Alto
 
+* KC6ULT - 146.865- PL114.8 - Redwood City
+
 # Weekly Nets
 - Monday 20:00 - SF ARC FM - 145.150- MHz DCS 664
-- Tuesday 19:00 - San Mateo Radio Club - 145.370- PL107.2
 - Tuesday 19:30 - CARC Daly City Net - WA6TOW 146.925- PL114.8
+- Tuesday 20:00 - San Mateo County **OES** - KC6ULT 146.865- PL114.8 (also WA6TOW)
+
+## Unconfirmed
+- Tuesday 19:00 - San Mateo Radio Club - 145.370- PL107.2
 - Wednesday 19:30 - Bay Net 6m FM - 52.525 MHz
-- Wednesday 20:00 - CARC checkin - WA6TOW 146.925 PL114.8
+- Wednesday 20:00 - CARC checkin - WA6TOW 146.925- PL114.8
 - Wednesday 20:30 - BayNet 2m SSB - 144.230 USB vertical polarization
 - Thursday 19:00 - San Mateo Radio Club - 145.370+ PL107.2
 - Thursday 20:00 - Bay-Net Digital Voice
