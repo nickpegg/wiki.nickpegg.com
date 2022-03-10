@@ -36,4 +36,4 @@ jobs:
         destination: 'wiki.nickpegg.com'
         parent: false
         headers: |-
-          Cache-Control: max-age=15
+          cache-control: max-age=15
