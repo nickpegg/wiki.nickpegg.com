@@ -16,6 +16,7 @@ When transmitting the S-Meter can show different things
 
 # Memory
 Quick Memory Bank (5 memories):
+
 * Long-press RCL/STO to store
 * Short-press RCL/STO to flip between stored channels
 
