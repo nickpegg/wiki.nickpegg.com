@@ -1,7 +1,8 @@
-Quick settings are stored by band and mode, so double-check them before transmitting:
+Quick settings are stored by band and mode, so double-check them before using:
 
 * Power
 * Mic gain
+* Width - crank up to 3000 Hz for digital modes
 
 # Meter types
 When transmitting the S-Meter can show different things

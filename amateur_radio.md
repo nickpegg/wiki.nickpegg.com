@@ -32,7 +32,6 @@ When remote, I have a Yaesu VX-7R with a Signal Stick antenna
 - CARLA SF - N6MVT - 442.075+ PL100.0 local, PL162.2 link
 - CARLA Pacifica - WB6JKV - 440.725+ PL114.8 local, PL167.9 link
 - NorCal DX Club - W6TI - 147.36+ PL110.9 - Palo Alto
-
 * KC6ULT - 146.865- PL114.8 - Redwood City
 
 # Weekly Nets
