@@ -15,9 +15,11 @@ When remote, I have a Yaesu VX-7R with a Signal Stick antenna
 	- [x] Request callsign cert
 	- [x] Get postcard
 	- [x] Receive cert
+- [x] eQSL
 - [x] Buy HF equipment
-- [ ] Try out digital modes on HF (WSPR, FT8)
+- [x] Try out digital modes on HF (WSPR, FT8)
 - [ ] Try out non-FM modes on 2m/6m
+- [ ] Script to archive ADIF files
 
 # Local Groups
 - [SFARC](https://www.sfarc.org/)
