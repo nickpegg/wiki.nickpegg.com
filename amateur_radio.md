@@ -20,6 +20,8 @@ When remote, I have a Yaesu VX-7R with a Signal Stick antenna
 - [x] Try out digital modes on HF (WSPR, FT8)
 - [ ] Try out non-FM modes on 2m/6m
 - [ ] Script to archive ADIF files
+- [ ] Set up page on ARRL Digital Contest, with freqs
+- [ ] Extract frequencies for various modes from the [ARRL operating procedures doc](https://www.arrl.org/files/file/DXCC/Eth-operating-EN-ARRL-CORR-JAN-2011.pdf)
 
 # Local Groups
 - [SFARC](https://www.sfarc.org/)
@@ -37,12 +39,14 @@ When remote, I have a Yaesu VX-7R with a Signal Stick antenna
 * KC6ULT - 146.865- PL114.8 - Redwood City
 
 # Weekly Nets
+- Monday 17:30 - San Bruno ARC - WA6TOW - may move San Bruno radio club repeater
 - Monday 20:00 - SF ARC FM - 145.150- MHz DCS 664
 - Tuesday 19:30 - CARC Daly City Net - WA6TOW 146.925- PL114.8
 - Tuesday 20:00 - San Mateo County **OES** - KC6ULT 146.865- PL114.8 (also WA6TOW)
 
 ## Unconfirmed
 - Tuesday 19:00 - San Mateo Radio Club - 145.370- PL107.2
+- Tuesday 20:30 - SF 147.555Mhz (no tone)
 - Wednesday 19:30 - Bay Net 6m FM - 52.525 MHz
 - Wednesday 20:00 - CARC checkin - WA6TOW 146.925- PL114.8
 - Wednesday 20:30 - BayNet 2m SSB - 144.230 USB vertical polarization

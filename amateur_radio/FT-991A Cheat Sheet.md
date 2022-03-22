@@ -32,3 +32,8 @@ Quick Memory Bank (5 memories):
 2. Press F(M-LIST)
 3. Press MCH virtual button
 4. Rotate Multi knob to select channel
+
+## Clear
+1. Press and hold F(M-LIST)
+2. Scroll to memory to clear
+3. Hit ERASE button on screen
