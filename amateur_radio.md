@@ -43,6 +43,7 @@ When remote, I have a Yaesu VX-7R with a Signal Stick antenna
 - Monday 20:00 - SF ARC FM - 145.150- MHz DCS 664
 - Tuesday 19:30 - CARC Daly City Net - WA6TOW 146.925- PL114.8
 - Tuesday 20:00 - San Mateo County **OES** - KC6ULT 146.865- PL114.8 (also WA6TOW)
+- Saturday 09:00 - SF ARC HF net - 14.328Mhz
 
 ## Unconfirmed
 - Tuesday 19:00 - San Mateo Radio Club - 145.370- PL107.2
@@ -56,7 +57,7 @@ When remote, I have a Yaesu VX-7R with a Signal Stick antenna
 	- DMR 444.350 MHz
 	- Repeaters are in Palo Alto, may not be able to reach
 - Thursday 20:00 - SF ARC QRS CW - 144.07 MHz
-- Saturday 09:00 - SF ARC HF net - 14.328Mhz
+
 
 
 # Stores
