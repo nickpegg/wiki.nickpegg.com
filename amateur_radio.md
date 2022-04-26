@@ -3,7 +3,7 @@ My amateur radio notes
 # My Setup
 * Base transceiver is a Yaesu FT-991a
 - Diamond MR77 mobile antenna for 2m/70cm, stuck to one of my filing cabinets
-- **Soon**: EARCHI end-fed antenna for HF/6m, temporariliy mounted to the picture rails in my home office
+- EARCHI end-fed antenna for HF/6m. I currently have the 9:1 unun attached to the cable which is holding up the string lights in my back yard. Surprisingly, I can tune 6m through 40m using the FT-991A
 
 When remote, I have a Yaesu VX-7R with a Signal Stick antenna
 
@@ -39,7 +39,7 @@ When remote, I have a Yaesu VX-7R with a Signal Stick antenna
 * KC6ULT - 146.865- PL114.8 - Redwood City
 
 # Weekly Nets
-- Monday 17:30 - San Bruno ARC - WA6TOW - may move San Bruno radio club repeater
+- Monday 17:30 - San Bruno ARC - WA6TOW - moving soon to K6PVJ 440.550 PL114.8
 - Monday 20:00 - SF ARC FM - 145.150- MHz DCS 664
 - Tuesday 19:30 - CARC Daly City Net - WA6TOW 146.925- PL114.8
 - Tuesday 20:00 - San Mateo County **OES** - KC6ULT 146.865- PL114.8 (also WA6TOW)
