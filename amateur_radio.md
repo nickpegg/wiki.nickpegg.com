@@ -39,6 +39,7 @@ When remote, I have a Yaesu VX-7R with a Signal Stick antenna
 * KC6ULT - 146.865- PL114.8 - Redwood City
 
 # Weekly Nets
+- Daily 09:00 - 9 AM Talk Net - N6NFI (Palo Alto) - 145.230- PL100
 - Monday 17:30 - San Bruno ARC - WA6TOW - moving soon to K6PVJ 440.550 PL114.8
 - Monday 20:00 - SF ARC FM - 145.150- MHz DCS 664
 - Tuesday 19:30 - CARC Daly City Net - WA6TOW 146.925- PL114.8
