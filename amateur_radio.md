@@ -20,7 +20,7 @@ When remote, I have a Yaesu VX-7R with a Signal Stick antenna
 - [x] Try out digital modes on HF (WSPR, FT8)
 - [ ] Try out non-FM modes on 2m/6m
 - [ ] Script to archive ADIF files
-- [ ] Set up page on ARRL Digital Contest, with freqs
+- [x] Set up page on ARRL Digital Contest, with freqs
 - [ ] Extract frequencies for various modes from the [ARRL operating procedures doc](https://www.arrl.org/files/file/DXCC/Eth-operating-EN-ARRL-CORR-JAN-2011.pdf)
 
 # Local Groups
