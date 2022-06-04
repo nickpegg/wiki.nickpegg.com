@@ -1,5 +1,5 @@
 
-**Date:** 2022-06-04 1800 UTC (09:00 PDT) to 2022-06-05 2359 UTC (17:00 PDT)
+**Date:** 2022-06-04 1800 UTC (11:00 PDT) to 2022-06-05 2359 UTC (17:00 PDT)
 
 Logs are due 2022-06-12 2359 UTC. Must be **Cabrillo format**, submit at https://contest-log-submission.arrl.org
 
