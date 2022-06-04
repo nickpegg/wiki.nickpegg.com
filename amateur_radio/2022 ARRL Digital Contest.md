@@ -4,7 +4,7 @@
 Logs are due 2022-06-12 2359 UTC. Must be **Cabrillo format**, submit at https://contest-log-submission.arrl.org
 
 # Rules
-Taken from the full rules PDF: https://contests.arrl.org/ContestRules/Digital-Rules.pdf
+Taken from the [full rules PDF](https://contests.arrl.org/ContestRules/Digital-Rules.pdf)
 
 Contest Objective: For amateurs around the world to contact as many other amateurs in as many 4-digit Maidenhead grid squares as possible, using non-RTTY digital modes
 
