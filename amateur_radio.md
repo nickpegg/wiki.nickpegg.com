@@ -38,7 +38,9 @@ When remote, I have a Yaesu VX-7R with a Signal Stick antenna
 - NorCal DX Club - W6TI - 147.36+ PL110.9 - Palo Alto
 * KC6ULT - 146.865- PL114.8 - Redwood City
 
-# Weekly Nets
+# SF Bay Area Weekly Nets
+Times PST/PDT
+
 - Daily 09:00 - 9 AM Talk Net - N6NFI (Palo Alto) - 145.230- PL100
 - Monday 17:30 - San Bruno ARC - WA6TOW - moving soon to K6PVJ 440.550 PL114.8
 - Monday 20:00 - SF ARC FM - 145.150- MHz DCS 664

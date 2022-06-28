@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "amateur_radio/2022 ARRL Digital Contest.md",
+            "file": "amateur_radio.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "amateur_radio/2022 ARRL Digital Contest.md",
+                "file": "amateur_radio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "8e1a37577915561c",
   "lastOpenFiles": [
-    "amateur_radio/2022 ARRL Digital Contest.md",
     "amateur_radio.md",
+    "amateur_radio/2022 ARRL Digital Contest.md",
     "amateur_radio/equipment_ideas.md",
     "tech_notes/design/Deployinator.md",
     "index.md",
