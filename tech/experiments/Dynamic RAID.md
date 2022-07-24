@@ -1,9 +1,9 @@
 # Background
 Many RAID systems are pretty rigid:
-- Once you set up a group of drives, you can't resize the group by adding/removing drives
-- You can't mix and match sizes in a meaningful way - it will only use as much as your smallest drive on each drive
-	- If you have a group of a 1TB drive and two 2TB drives, it's as if you only have 3 1TB drives
-	- Some RAID systems can expand to a new minimum-drive size, but only when _all_ drives in the group are at least that size
+* Once you set up a group of drives, you can't resize the group by adding/removing drives
+* You can't mix and match sizes in a meaningful way - it will only use as much as your smallest drive on each drive
+	* If you have a group of a 1TB drive and two 2TB drives, it's as if you only have 3 1TB drives
+	* Some RAID systems can expand to a new minimum-drive size, but only when _all_ drives in the group are at least that size
 
 Synology has a way of working around this that they call [Synology Hybrid RAID (SHR)](https://kb.synology.com/en-us/DSM/tutorial/What_is_Synology_Hybrid_RAID_SHR), coming in a SHR-1 flavor (RAID-5 like, 1 drive of redundancy) and SHR-2 flavor (RAID-6 like, 2 drive redundancy).
 
