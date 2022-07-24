@@ -15,6 +15,10 @@ blah
 	* some nesting
 * blargh
 
+- this is a list
+	- with some nesting
+- which uses dashes instead
+
 1. numbered
 2. list
 3. whee

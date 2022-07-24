@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tech/experiments/Dynamic RAID.md",
+            "file": "test/styles.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tech/experiments/Dynamic RAID.md",
+                "file": "test/styles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "8e1a37577915561c",
   "lastOpenFiles": [
+    "test.md",
+    "tech/experiments/Dynamic RAID.md",
     "amateur_radio.md",
     "amateur_radio/2022 ARRL Digital Contest.md",
     "amateur_radio/equipment_ideas.md",
@@ -96,8 +98,6 @@
     "index.md",
     "tech_notes.md",
     "amateur_radio/FT-991A Cheat Sheet.md",
-    "recipes/spicy_maze_udon.md",
-    "recipes/simple_keema_curry.md",
-    "recipes/biscuit_gravy.md"
+    "recipes/spicy_maze_udon.md"
   ]
 }
