@@ -1,5 +1,6 @@
 # Background
 Many RAID systems are pretty rigid:
+
 * Once you set up a group of drives, you can't resize the group by adding/removing drives
 * You can't mix and match sizes in a meaningful way - it will only use as much as your smallest drive on each drive
 	* If you have a group of a 1TB drive and two 2TB drives, it's as if you only have 3 1TB drives
@@ -12,6 +13,7 @@ At a basic level, SHR works by striping many disparate RAID groups across the dr
 
 # Methods
 Requirements:
+
 - Some sort of software RAID system where we can create and delete RAID groups as we need
 - Some sort of logical volume system that can combine multiple RAID groups into a logical pool. Must support arbitrarily adding/removing devices.
 - Some way of evacuating a RAID group in case we need to reconfigure it (permanently add/remove drives)
@@ -21,6 +23,7 @@ MD RAID and ZFS RAID fit the bill for the RAID part. LVM fits the bill for logic
 - [ ] Does ZFS support adding/removing devices willy-nilly from pools?
 
 Possbile methods:
+
 - LVM on MD RAID
 - LVM using ZFS block devices on ZFS RAID
 
@@ -33,6 +36,7 @@ With a partitioning/RAID scheme this complex, we need to be able to store metada
 I'm thinking that each drive can hold a small ext4 partition at the beginning and store a YAML file that describes the layout. This isn't the most space-efficient thing in the world, but is very straightforward for troubleshooting purposes by humans - mount the drive, inspect the YAML, edit if needed.
 
 The metadata should contain:
+
 - A UUID for identifying the pool
 - An only-increasing version number, so that if we read conflicting metadata files from multiple drives, the one with the highest version number is the one we can trust
 
