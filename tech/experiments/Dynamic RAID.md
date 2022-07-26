@@ -165,4 +165,7 @@ zpool destroy pool3
 # Performance
 We're likely going to pay a performance penalty in exchange for flexibility. How bad is it?
 
-TODO
+Test 1, ext4 on the MD arrays
+
+Test 2, ext4 on a LV that's across all the MD arrays
+
