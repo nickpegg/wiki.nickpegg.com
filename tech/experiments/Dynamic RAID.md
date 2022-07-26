@@ -18,9 +18,7 @@ Requirements:
 - Some sort of logical volume system that can combine multiple RAID groups into a logical pool. Must support arbitrarily adding/removing devices.
 - Some way of evacuating a RAID group in case we need to reconfigure it (permanently add/remove drives)
 
-MD RAID and ZFS RAID fit the bill for the RAID part. LVM fits the bill for logical volumes and has a way to evacute physical volumes for removal from a volume group.
-
-- [ ] Does ZFS support adding/removing devices willy-nilly from pools?
+MD RAID and ZFS RAID fit the bill for the RAID part. LVM fits the bill for logical volumes and has a way to evacute physical volumes for removal from a volume group. For ZFS, it doesn't appear you can remove top-level raidz vdevs from a pool, so a pool of multiple raidzs won't work.
 
 Possbile methods:
 
@@ -50,8 +48,94 @@ The Synology doc on SHR shows the stripes being as large as their smallest drive
 Also leaving space for one stripe at the end can also help us account for drives which are not precisely the same size, like a 3TB drive may be different between manufacturers.
 
 
-# Test Implementation
-TODO
+# Test - Manual Implementation
+Disk setup:
+
+- 1x 100 mb
+- 2x 150 mb
+- 3x 200 mb
+
+We won't create a metadata partition, instead will just keep track of everything ourselves. This is a PoC and handy for benchmarks.
+
+## Install pkgs
+```
+sudo apt install mdadm zfsutils-linux lvm2
+```
+
+## Create fake disks
+```bash
+truncate -s100m disk1
+truncate -s150m disk{2..3}
+truncate -s200m disk{4..6}
+
+for i in {1..6}; do losetup /dev/loop$i /root/disk$i; done
+
+# Create partitions
+for disk in /dev/loop{1..6}; do
+	fdisk $disk << EOF
+o
+n
+p
+1
+2048
++90M
+w
+EOF
+done
+
+for disk in /dev/loop{2..6}; do
+	fdisk $disk << EOF
+n
+p
+2
+
++50M
+w
+EOF
+done
+
+for disk in /dev/loop{4..6}; do
+	fdisk $disk << EOF
+n
+p
+3
+
++50M
+w
+EOF
+done
+
+# Tell the kernel about the new partitions
+for i in {1..6}; do partx -a /dev/loop$i; done
+```
+
+## LVM on MD
+```shell
+# Create MD arrays
+mdadm --create /dev/md0 --level 5 --raid-devices=6 /dev/loop{1..6}p1
+mdadm --create /dev/md1 --level 5 --raid-devices=5 /dev/loop{2..6}p2
+mdadm --create /dev/md2 --level 5 --raid-devices=3 /dev/loop{4..6}p3
+cat /proc/mdstat
+
+# Create VG using the MD arrays as PVs
+vgcreate test /dev/md{0..2}
+vgs 
+# VSize: 716m
+
+# Can remove a PV
+vgreduce test /dev/md2
+
+
+# Teardown
+mdadm --stop /dev/md0
+mdadm --stop /dev/md1
+mdadm --stop /dev/md2
+```
+
+## LVM on ZFS
+```
+# TODO
+```
 
 
 # Performance
