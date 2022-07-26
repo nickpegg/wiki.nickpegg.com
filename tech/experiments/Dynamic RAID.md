@@ -24,6 +24,7 @@ Possbile methods:
 
 - LVM on MD RAID
 - LVM using ZFS block devices on ZFS RAID
+	- This seems really greasy, ZFS has the ability to create block devices (ZVOLs) but ZFS seems to want to fill LVM's role
 
 
 
@@ -43,9 +44,17 @@ The metadata should contain:
 
 Since we want to maintain the ability to drain a stripe for maintenance, e.g. permanent removal of a drive, we want to either maintain a blank slot for a strip on each drive, or only allow operations if the pool has as much free space as one stripe (to be able to drain it). Therefore, the stripe size should be fairly small to not waste a bunch of space.
 
-The Synology doc on SHR shows the stripes being as large as their smallest drive. I'm thinking instead that the stripe size should be like 1%, 5%, or 10% of the smallest drive. If we leave room for one 5% stripe on each drive, that could be considerable overhead (150 GB on a 3000 GB drive), but may be acceptable. For example this sort of over-provisioning is often done when deploying redundant servers, for example.
+The Synology doc on SHR shows the stripes being as large as their smallest drive. I'm thinking instead that the stripe size should be like 1%, 5%, or 10% of the smallest drive. If say we leave room for one 5% stripe on each drive, that could be considerable overhead (150 GB on a 3000 GB drive), but may be acceptable. For example this sort of over-provisioning is often done when deploying redundant servers, for example.
 
 Also leaving space for one stripe at the end can also help us account for drives which are not precisely the same size, like a 3TB drive may be different between manufacturers.
+
+Something that may force our hand in strip size: GPT only supports 128 partitions. This means the minimum stripe size must be greater than (largest drive size) / 128.
+
+Extreme example, 20TB drive mixed with a 1TB drive:
+
+- 20000 GB / 128 = 156.25 GB min stripe size
+- 156.25 / 1000 = 15.625%
+
 
 
 # Test - Manual Implementation
@@ -73,11 +82,10 @@ for i in {1..6}; do losetup /dev/loop$i /root/disk$i; done
 # Create partitions
 for disk in /dev/loop{1..6}; do
 	fdisk $disk << EOF
-o
+g
 n
-p
 1
-2048
+
 +90M
 w
 EOF
@@ -86,7 +94,6 @@ done
 for disk in /dev/loop{2..6}; do
 	fdisk $disk << EOF
 n
-p
 2
 
 +99M
@@ -97,7 +104,6 @@ done
 for disk in /dev/loop{4..6}; do
 	fdisk $disk << EOF
 n
-p
 3
 
 +99M
@@ -112,29 +118,27 @@ for i in {1..6}; do partx -a /dev/loop$i; done
 ## LVM on MD
 ```shell
 # Create MD arrays
-mdadm --create /dev/md0 --level 5 --raid-devices=6 /dev/loop{1..6}p1
-mdadm --create /dev/md1 --level 5 --raid-devices=5 /dev/loop{2..6}p2
-mdadm --create /dev/md2 --level 5 --raid-devices=3 /dev/loop{4..6}p3
+mdadm --create /dev/md/slice0 --level 5 --raid-devices=6 /dev/loop{1..6}p1
+mdadm --create /dev/md/slice1 --level 5 --raid-devices=5 /dev/loop{2..6}p2
+mdadm --create /dev/md/slice2 --level 5 --raid-devices=3 /dev/loop{4..6}p3
 cat /proc/mdstat
+# Note that MD gives auto-generated names for these arrays in /proc/mdstat. /etc/md/* are symlinks to /dev/md*.
 
 # Create VG using the MD arrays as PVs
-vgcreate test /dev/md{0..2}
-vgs 
-# VSize: 716m
+vgcreate pool /dev/md/slice{0..2}
+vgs
+# VSize: 1012m
 
 # Can remove a PV
-vgreduce test /dev/md2
+vgreduce pool /dev/md/slice2
+vgs
 
 
 # Teardown
-vgremove test
-pvremove /dev/md*
-mdadm --stop /dev/md0
-mdadm --stop /dev/md1
-mdadm --stop /dev/md2
-for i in {1..6}; do mdadm --zero-superblock /dev/loop${i}p1; done
-for i in {2..6}; do mdadm --zero-superblock /dev/loop${i}p2; done
-for i in {4..6}; do mdadm --zero-superblock /dev/loop${i}p3; done
+vgremove pool
+pvremove /dev/md/slice*
+for dev in $(ls /dev/md/slice*); do mdadm --stop $dev; done
+for dev in $(ls /dev/loop*p*); do mdadm --zero-superblock $dev; done
 ```
 
 ## LVM on ZFS
@@ -159,6 +163,7 @@ pvremove /dev/zvol/pool*/vol
 zpool destroy pool1
 zpool destroy pool2
 zpool destroy pool3
+for dev in $(ls /dev/loop*p*); do dd if=/dev/zero bs=1M of=$dev; done
 ```
 
 
