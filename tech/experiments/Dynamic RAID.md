@@ -65,8 +65,8 @@ sudo apt install mdadm zfsutils-linux lvm2
 ## Create fake disks
 ```bash
 truncate -s100m disk1
-truncate -s150m disk{2..3}
-truncate -s200m disk{4..6}
+truncate -s200m disk{2..3}
+truncate -s300m disk{4..6}
 
 for i in {1..6}; do losetup /dev/loop$i /root/disk$i; done
 
@@ -89,7 +89,7 @@ n
 p
 2
 
-+50M
++99M
 w
 EOF
 done
@@ -100,7 +100,7 @@ n
 p
 3
 
-+50M
++99M
 w
 EOF
 done
@@ -127,14 +127,38 @@ vgreduce test /dev/md2
 
 
 # Teardown
+vgremove test
+pvremove /dev/md*
 mdadm --stop /dev/md0
 mdadm --stop /dev/md1
 mdadm --stop /dev/md2
+for i in {1..6}; do mdadm --zero-superblock /dev/loop${i}p1; done
+for i in {2..6}; do mdadm --zero-superblock /dev/loop${i}p2; done
+for i in {4..6}; do mdadm --zero-superblock /dev/loop${i}p3; done
 ```
 
 ## LVM on ZFS
-```
-# TODO
+```shell 
+zpool create pool1 raidz /dev/loop{1..6}p1
+zpool create pool2 raidz /dev/loop{2..6}p2
+zpool create pool3 raidz /dev/loop{4..6}p3
+
+# These are really messy numbers. They don't equal the size of the pool, there seems to be some overhead with ZFS here
+zfs create -V 275M pool1/vol
+zfs create -V 220M pool2/vol
+zfs create -V 80M pool3/vol
+
+# Create VG
+vgcreate test /dev/zvol/pool*/vol
+vgs
+# VSize: 564m
+
+# Teardown
+vgremove test
+pvremove /dev/zvol/pool*/vol
+zpool destroy pool1
+zpool destroy pool2
+zpool destroy pool3
 ```
 
 
