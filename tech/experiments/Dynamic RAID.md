@@ -48,7 +48,8 @@ The Synology doc on SHR shows the stripes being as large as their smallest drive
 
 Also leaving space for one stripe at the end can also help us account for drives which are not precisely the same size, like a 3TB drive may be different between manufacturers.
 
-Something that may force our hand in strip size: GPT only supports 128 partitions. This means the minimum stripe size must be greater than (largest drive size) / 128.
+
+Something that may force our hand on strip size: GPT only supports 128 partitions. This means the minimum stripe size must be greater than: (largest drive size) / 128.
 
 Extreme example, 20TB drive mixed with a 1TB drive:
 
