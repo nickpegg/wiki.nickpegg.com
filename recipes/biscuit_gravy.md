@@ -25,5 +25,6 @@
   3. Remove pot from heat, let gravy cool to thicken
 
 ## Pictures
+
 ### Viscous Gravy
 ![](/img/gravy_spoon.jpg)

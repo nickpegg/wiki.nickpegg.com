@@ -4,16 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "8e1a37577915561c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "test/styles.md",
-            "mode": "source",
-            "source": false
+        "id": "21e13fc7b67094cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e1a37577915561c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test/styles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "712444fce003f602",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recipes/Mayonaise.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -31,7 +50,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -69,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test/styles.md",
+                "file": "recipes/Mayonaise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8e1a37577915561c",
+  "active": "712444fce003f602",
   "lastOpenFiles": [
-    "tech/experiments/Dynamic RAID.md",
-    "test/styles.md",
-    "test.md",
-    "amateur_radio.md",
-    "amateur_radio/2022 ARRL Digital Contest.md",
-    "amateur_radio/equipment_ideas.md",
-    "tech_notes/design/Deployinator.md",
-    "index.md",
-    "tech_notes.md",
-    "amateur_radio/FT-991A Cheat Sheet.md"
+    "recipes/biscuit_gravy.md",
+    "recipes/spicy_maze_udon.md",
+    "recipes/simple_keema_curry.md",
+    "recipes/Mayonaise.md",
+    "recipes/kimchi.md",
+    "recipes/gyoza_sauce.md",
+    "recipes/gochjang.md",
+    "recipes/french_toast.md",
+    "recipes/cinnamon_sugar.md",
+    "test/styles.md"
   ]
 }
