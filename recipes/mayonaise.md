@@ -57,7 +57,4 @@ Made garlic oil:
 
 Used 1/4 cup garlic oil and 1/4 cup canola oil
 
-The garlic is pretty subtle, I think it could be made 100% with garlic oil.
-
-
-
+I thought that the garlic was too subtle at first, but after a day in the fridge it was actually the right amount.

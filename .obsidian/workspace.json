@@ -23,8 +23,12 @@
             "id": "712444fce003f602",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "recipes/mayonaise.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -86,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "recipes/mayonaise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
