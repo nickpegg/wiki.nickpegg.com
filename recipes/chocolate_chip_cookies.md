@@ -1,16 +1,18 @@
-[Source](http://web.archive.org/web/20150922090503/http://www.chefsteps.com/activities/chocolate-chip-cookies)
+[Original source](http://web.archive.org/web/20150922090503/http://www.chefsteps.com/activities/chocolate-chip-cookies)
 
-| Qty               | Thing |
-|-------------------|-------|
-| 220g              | butter
-| 200g              | brown sugar
-| 180g              | granulated sugar
-| 15g | kosher salt
-| 5g | baking soda
-| 20g | vanilla extract
-| 100g (2 whole) | egg
-| 400g | pastry flour
-| 300g | chopped chocolate
+Makes 12-18 cookies
+
+| Qty           | Thing |
+|---------------|-------|
+| 110g          | butter
+| 100g          | brown sugar
+| 90g           | granulated sugar
+| 7.5g          | kosher salt
+| 2.5g          | baking soda
+| 10g           | vanilla extract
+| 50g (1 whole) | egg
+| 200g          | pastry flour
+| 150g          | chopped chocolate or chocolate chips
 
 1. Cream butter, sugars, salt, and baking soda
 	1. In a stand mixer with paddle attachment, combine ingredients
