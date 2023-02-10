@@ -1,4 +1,4 @@
-Source: http://web.archive.org/web/20150922090503/http://www.chefsteps.com/activities/chocolate-chip-cookies
+[Source](http://web.archive.org/web/20150922090503/http://www.chefsteps.com/activities/chocolate-chip-cookies)
 
 | Qty               | Thing |
 |-------------------|-------|
