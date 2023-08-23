@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a8bce96d587e736e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recipes/simple_thai_keema_curry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -81,6 +93,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "591173ef21b095ea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -102,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recipes/chocolate_chip_cookies.md",
+                "file": "recipes/simple_thai_keema_curry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,10 +150,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4e18188be18ffe63",
+  "active": "a8bce96d587e736e",
   "lastOpenFiles": [
-    "recipes/french_toast.md",
+    "recipes/rayu.md",
+    "recipes/simple_keema_curry.md",
+    "recipes/simple_thai_keema_curry.md",
+    "recipes/pancakes.md",
+    "amateur_radio/FT-991A Cheat Sheet.md",
+    "sf/Survey of Outer Sunset Streets.md",
     "recipes/chocolate_chip_cookies.md",
+    "recipes/french_toast.md",
     "recipes/cinnamon_sugar.md",
     "tech/experiments/Dynamic RAID.md",
     "recipes/mayonaise.md",
