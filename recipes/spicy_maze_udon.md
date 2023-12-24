@@ -23,3 +23,4 @@ From papadesuyo777: [https://www.youtube.com/watch?v=VZEzDpRMaJ4](https://www.yo
 1.  Slice 1/2 white leek diagonally, soak in cool water to loosen them
 2.  Mince garlic
 3.  Chop green onion
+4. ... 

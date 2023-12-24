@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/simple_thai_keema_curry.md",
+                "file": "recipes/garlic oil.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recipes/simple_thai_keema_curry.md",
+                "file": "recipes/garlic oil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,21 +152,23 @@
   },
   "active": "a8bce96d587e736e",
   "lastOpenFiles": [
+    "recipes/french_toast.md",
+    "recipes/cinnamon_sugar.md",
+    "recipes/chocolate_chip_cookies.md",
+    "recipes/biscuit_gravy.md",
+    "recipes/kimchi.md",
+    "recipes/mayonaise.md",
+    "recipes/pancakes.md",
     "recipes/rayu.md",
     "recipes/simple_keema_curry.md",
     "recipes/simple_thai_keema_curry.md",
-    "recipes/pancakes.md",
+    "recipes/spicy_maze_udon.md",
     "amateur_radio/FT-991A Cheat Sheet.md",
     "sf/Survey of Outer Sunset Streets.md",
-    "recipes/chocolate_chip_cookies.md",
-    "recipes/french_toast.md",
-    "recipes/cinnamon_sugar.md",
     "tech/experiments/Dynamic RAID.md",
-    "recipes/mayonaise.md",
     "recipes/garlic oil.md",
     "test/styles.md",
     "garlic oil.md",
-    "recipes/Mayonaise.md",
-    "recipes/biscuit_gravy.md"
+    "recipes/Mayonaise.md"
   ]
 }

@@ -19,8 +19,9 @@ Makes 12-18 cookies
 	2. Increase speed to medium-high and mix for two more minutes, pause to scrape down sides. Dough should be pale tan and fluffy
 2. Add vanilla and eggs with mixer going
 	1. Increase speed to high and mix until fully incorporated
-3. Add flour and chocolate, mix until incorporated
-4. Portion into balls (~65g each) and chill
-5. Preheat oven to 350 F / 177 C
-6. Bake for 13-14 minutes
-7. Let rest for at least 10 minutees
+3. Add flour, mix until incorporated
+4. Add chocolate, mix until incorporated
+5. Portion into balls (~65g each) and chill
+6. Preheat oven to 350 F / 177 C
+7. Bake for 13-14 minutes
+8. Let rest for at least 10 minutees
