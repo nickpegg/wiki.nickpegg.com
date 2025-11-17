@@ -6,12 +6,7 @@ all: clean push
 	uv venv
 
 init: .venv
-	uv pip install \
-		mkdocs \
-		mkdocs-terminal \
-		mkdocs-git-revision-date-plugin \
-		pygments \
-		pymdown-extensions
+	uv pip install -r requirements.txt
 
 clean:
 	rm -r site || true

@@ -1,0 +1,5 @@
+mkdocs
+mkdocs-terminal
+mkdocs-git-revision-date-plugin
+pygments
+pymdown-extensions
