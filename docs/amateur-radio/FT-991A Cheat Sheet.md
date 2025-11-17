@@ -1,3 +1,5 @@
+# FT-991A Cheat Sheet
+
 Quick settings are stored by band and mode, so double-check them before using:
 
 * Power

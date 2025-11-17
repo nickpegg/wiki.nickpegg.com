@@ -1,16 +1,26 @@
 .PHONY: all init clean build push
 
-all: clean build push
+all: clean push
 
-init:
-	python3 -m ensurepip --upgrade
-	python3 -m pip install git+https://github.com/nickpegg/md_wiki_to_html
+.venv:
+	uv venv
+
+init: .venv
+	uv pip install \
+		mkdocs \
+		mkdocs-terminal \
+		mkdocs-git-revision-date-plugin \
+		pygments \
+		pymdown-extensions
 
 clean:
-	rm -r .output || true
+	rm -r site || true
 
-build:
-	md_wiki_to_html -v render --template .meta/template.html --output .output
+site:
+	uv run mkdocs build
 
-push:
+serve:
+	uv run mkdocs serve
+
+push: site
 	gsutil -m rsync -d -r .output gs://wiki.nickpegg.com/

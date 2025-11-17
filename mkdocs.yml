@@ -1,0 +1,26 @@
+site_name: wiki.nickpegg.com
+site_author: Nick Pegg
+repo_url: https://github.com/nickpegg/wiki.nickpegg.com
+
+plugins:
+  - git-revision-date
+
+theme:
+  name: terminal
+  palette: gruvbox_dark
+  features:
+    - navigation.side.indexes
+    - navigation.top.cursor_animation.hide
+    - revision.date
+
+markdown_extensions:
+  - pymdownx.superfences         # required extension
+  - pymdownx.highlight:
+      use_pygments: true
+      pygments_style: gruvbox-dark
+      noclasses: true            # update HTML style attr
+  - pymdownx.inlinehilite
+  - pymdownx.tilde
+  - toc:
+      baselevel: "3"
+      toc_depth: "3"

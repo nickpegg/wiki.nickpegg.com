@@ -1,3 +1,5 @@
+# Markup test
+
 # Heading 1
 This is a page for testing various styles to make sure they come out okay
 
@@ -30,6 +32,9 @@ blah
 - [ ] boxes
 	- [ ] This should be nested
 - [ ] back to top-level
+
+
+This is a sentence with ~~some text crossed out~~
 
 
 ### Heading 3

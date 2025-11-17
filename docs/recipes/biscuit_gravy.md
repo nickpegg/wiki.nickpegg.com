@@ -6,7 +6,7 @@
 | 4 tbsp          | flour
 | 3 cups / 750 g  | milk
 | 2 tsp           | garlic powder
-| to taste        | salt and pepper 
+| to taste        | salt and pepper
 
 # Steps
 1. In a medium pot
@@ -27,4 +27,4 @@
 ## Pictures
 
 ### Viscous Gravy
-![](/img/gravy_spoon.jpg)
+![](../img/gravy_spoon.jpg)

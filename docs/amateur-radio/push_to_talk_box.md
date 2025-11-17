@@ -16,10 +16,10 @@ How it works:
 SW2 definitely needs 12V
 SW1 works with both 5 and 12V, light turns on when switch is on
 
-![](/img/ptt_box_schematic.jpg)
+![](../img/ptt_box_schematic.jpg)
 
 RTTY/DATA port pinout, takes a 6-pin mini-DIN plug
-![](/img/ft991a_rtty_data_pinout.png)
+![](../img/ft991a_rtty_data_pinout.png)
 
 # TODO
 - [x] is the lamp in SW1 a lamp, or LED? Does it need a resistor?

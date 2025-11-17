@@ -91,4 +91,4 @@ Stuff to try out
 [DX Engineering's coax type chart](https://static.dxengineering.com/pdf/dxe_coax_compare-chart91120-rev7.pdf)
 
 TRRS plug diagram:
-![](/img/trrs-diagram.jpg)
+![](../img/trrs-diagram.jpg)

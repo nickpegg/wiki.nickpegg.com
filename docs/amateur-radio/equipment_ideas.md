@@ -1,3 +1,5 @@
+# Equipment Ideas
+
 I recently got my General license, so I'm planning on buying a base transceiver that can do HF, and an antenna for it. Here are some options I've found.
 
 # Base Antennas
