@@ -1,3 +1,12 @@
+# 2025
+
+I now use [mkdocs](https://mkdocs.org) and edit with vim. Editing isn't as fancy as with Obsidian,
+but I don't think I really need it. A lot less complicated than having to maintain my own site
+generation tool.
+
+
+# Previous to 2025
+
 I use [Obisidian](https://obsidian.md/) to edit this wiki. Because I'm a colossal cheapass, instead of using their publishing tools I publish using my own tool called [md_wiki_to_html](https://github.com/nickpegg/md_wiki_to_html)
 
 md_wiki_to_html has a concept of ["flavors" of Markdown wikis that it supports](https://github.com/nickpegg/md_wiki_to_html/blob/93d3f04126474b1d2ba451507e3239f2107d5748/md_wiki_to_html/config.py#L30-L45), but I've only implemented Obsidian so far. I was planning on adding vimwiki, but I ended up settling on using Obsidian instead.
