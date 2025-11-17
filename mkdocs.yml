@@ -21,6 +21,3 @@ markdown_extensions:
       noclasses: true            # update HTML style attr
   - pymdownx.inlinehilite
   - pymdownx.tilde
-  - toc:
-      baselevel: "3"
-      toc_depth: "3"
