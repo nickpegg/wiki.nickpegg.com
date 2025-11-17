@@ -1,6 +1,6 @@
-From papadesyu777: [https://www.youtube.com/watch?v=GEyubT9QD78](https://www.youtube.com/watch?v=GEyubT9QD78)
+From papadesuyo777: [https://www.youtube.com/watch?v=GEyubT9QD78](https://www.youtube.com/watch?v=GEyubT9QD78)
 
-  
+
 
 # Fried bits
 
@@ -22,7 +22,7 @@ From papadesyu777: [https://www.youtube.com/watch?v=GEyubT9QD78](https://www.you
 3.  Bring to simmer
 4.  Bring down heat to low, cook for 10 minutes
 
-  
+
 
 # Side steps
 
@@ -32,7 +32,7 @@ From papadesyu777: [https://www.youtube.com/watch?v=GEyubT9QD78](https://www.you
 - 15 g Korean red pepper flakes
 - 1 tbsp sesame oil
 
-  
+
 
 ## Steps
 

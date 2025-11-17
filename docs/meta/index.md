@@ -1,5 +1,3 @@
-# 2025
-
 I now use [mkdocs](https://mkdocs.org) and edit with vim. Editing isn't as fancy as with Obsidian,
 but I don't think I really need it. A lot less complicated than having to maintain my own site
 generation tool.
@@ -21,7 +19,7 @@ md_wiki_to_html has a concept of ["flavors" of Markdown wikis that it supports](
 - [x] Open-source the publish tool
 - [x] HTML template with CSS for wiki
 - [x] Hosting on my server or a GCS bucket
-- [x] fix wonky styling on [[test/styles]]
+- [x] fix wonky styling on [test/styles](../test/styles.md)
 - [x] GitHub Action to publish to the bucket
 - [x] Code highlighting
 - [x] Make links look nicer on web

@@ -29,10 +29,10 @@ You probably want to eat this within a week, maybe two weeks at most. There's ra
 
 ## Variations
 
-* **Spicy mayo** - substitute 1 tbsp of neutral oil with 1 tbsp of rayu (chili-infused sesame oil). 
+* **Spicy mayo** - substitute 1 tbsp of neutral oil with 1 tbsp of rayu (chili-infused sesame oil).
 	* Rayu can be found in the Asian section in the supermarket next to the other sesame oils. You want the kind without anything in it, it often can be found with crispy garlic - which is delicious! But not what we want here.
 	* If you don't see it, it's sometimes labeled "La-yu" or even just "hot pepper sesame oil."
-* **Garlic mayo** - Replace 1/2 of the the neutral oil with [[garlic oil]]
+* **Garlic mayo** - Replace 1/2 of the the neutral oil with [garlic oil](garlic oil.md)
 * **Kewpie knockoff** - The secret to this Japanese brand of mayo is supposedly apple cider vinegar, so use that instead of white vinegar
 
 

@@ -1,4 +1,6 @@
-This homemade garlic-infused oil is an easy way to add a garlic flavor to dishes or to make a garlic [[mayonaise]]. It's also an good way to add garlic flavor to dishes for folks with FODMAP sensitivities since it has garlic essense, but no actual garlic.
+This homemade garlic-infused oil is an easy way to add a garlic flavor to dishes or to make a garlic
+[mayonaise](mayonaise.md). It's also an good way to add garlic flavor to dishes for folks with FODMAP
+sensitivities since it has garlic essense, but no actual garlic.
 
 # Ingredients
 
